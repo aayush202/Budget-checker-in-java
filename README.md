@@ -21,7 +21,7 @@ A simple Java program that checks if a given price is within a specified budget 
    ```bash
    javac main.java
    java main
-INPUT - 11000
-OUTPUT - YES
-INPUT - 13000
-OUTPUT - NO
+INPUT - 11000.
+OUTPUT - YES.
+INPUT - 13000.
+OUTPUT - NO.
